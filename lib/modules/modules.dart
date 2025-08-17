@@ -1,0 +1,9 @@
+export 'attendances/attendances.dart';
+export 'home/home.dart';
+export 'inventory/inventory.dart';
+export 'login/login.dart';
+export 'menu/menu.dart';
+export 'product/product.dart';
+export 'promo/promo.dart';
+export 'qr/qr.dart';
+export 'splash/splash.dart';

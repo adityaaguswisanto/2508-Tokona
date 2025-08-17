@@ -1,0 +1,7 @@
+BASE_URL=http://192.168.137.1:5044/v1/report/
+
+LOGIN_URL=users
+MERCHANT_URL=merchants
+ATTENDANCES_URL=attendances
+PRODUCT_URL=products
+PROMO_URL=promos
