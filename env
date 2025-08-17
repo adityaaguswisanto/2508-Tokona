@@ -1,0 +1,9 @@
+PORT_EXPRESS = 5044
+
+DB_NAME = tokona
+DB_USER = postgres
+DB_PASS = A768892a
+DB_HOST = localhost
+DB_PORT = 5432
+DB_DIAL = postgres
+KEY_MOBILE = tokona
